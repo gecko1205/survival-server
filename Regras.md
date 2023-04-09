@@ -8,7 +8,7 @@
 
 ---
 
-# 1. É proibido usar cheats
+## 1. É proibido usar cheats
 Para garantir uma experiência de jogo justa e divertida para todos os participantes, é proibido o uso de qualquer programa, mod ou resourcepack que conceda ao jogador vantagens desleais em relação aos demais, incluindo, mas não limitado a:
 - Mods ou texturas que permitem ao jogador ver através de paredes, encontrar recursos e tesouros ocultos, ou detectar outros jogadores, como *X-Ray, ESP e freecam*.
 - Mods que permitem ao jogador se mover, construir ou interagir com o ambiente do jogo de maneira não intencional ou não prevista pelos desenvolvedores, como mods de *scaffold, Nuke e killaura*.
@@ -21,19 +21,19 @@ Os seguintes tipos de mods são **permitidos** no servidor:
 - Mods de otimização que melhorem o desempenho do jogo, como *Sodium e Optifine*.
 - Mods de shaders que alterem a aparência visual do jogo, como o *Iris e Optifine*.
 
-# 2. É proibido utilizar bugs ou glitches de duplicação
+## 2. É proibido utilizar bugs ou glitches de duplicação
 Para manter a economia do servidor equilibrada e justa, não é permitido o uso de bugs ou glitches de duplicação de itens, entidades ou blocos.
 
-# 3. É proibido construir *Lag machines*
+## 3. É proibido construir *Lag machines*
 Construir máquinas que possam causar lag no servidor ou travar o jogo de outros jogadores é proibido. Isso inclui qualquer construção que possa prejudicar o desempenho do servidor ou de outros jogadores.
 
-# 4. É proibido a prática de *Griefing*
+## 4. É proibido a prática de *Griefing*
 Não é permitido a prática de griefing, que é a destruição de construções de outros jogadores sem permissão. Além disso, é proibido a colocação de blocos ou entidades em espaços usados ou preservados por outros jogadores.
 
-# 5. É proibido roubar
+## 5. É proibido roubar
 Qualquer tipo de fraude ou furto de outros jogadores é proibido. Isso inclui a criação de lojas falsas, a enganação de outros jogadores para obter recursos, pegar itens de contêiners de outros players ou a prática de latrocínio.
 
-# 6. É proibido matar
+## 6. É proibido matar
 Não é permitido matar outros jogadores ou seus animais e mobs. Além disso, é proibido atacar outros jogadores sem motivo ou ameaçá-los de qualquer forma.
 
 --- 
