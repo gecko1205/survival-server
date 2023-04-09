@@ -5,7 +5,7 @@
 2. [É Proibido utilizar bugs ou glitches de duplicação](https://github.com/gecko1205/survival-server/blob/main/Regras.md#2-%C3%A9-proibido-utilizar-bugs-ou-glitches-de-duplica%C3%A7%C3%A3o)
 3. [É proibido construir *Lag machines*](https://github.com/gecko1205/survival-server/blob/main/Regras.md#3-%C3%A9-proibido-construir-lag-machines)
 4. [É proibido a prática de *Griefing*](https://github.com/gecko1205/survival-server/blob/main/Regras.md#4-%C3%A9-proibido-a-pr%C3%A1tica-de-griefing)
-5. [É proibido roubar](https://github.com/gecko1205/survival-server/blob/main/Regras.md5-%C3%A9-proibido-roubar)
+5. [É proibido roubar](https://github.com/gecko1205/survival-server/blob/main/Regras.md#5-%C3%A9-proibido-roubar)
 6. [É proibido matar](https://github.com/gecko1205/survival-server/blob/main/Regras.md#6-%C3%A9-proibido-matar)
 
 ---
