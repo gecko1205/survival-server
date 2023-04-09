@@ -1,6 +1,4 @@
-# __Minecraft survival server__
-
-## ![](https://cdn.discordapp.com/emojis/1051250881129107477.webp?size=22&quality=lossless) Regras
+# ![](https://cdn.discordapp.com/emojis/1051250881129107477.webp?size=22&quality=lossless) Regras
 1. [É proibido usar cheats](https://github.com/gecko1205/survival-server/blob/main/Regras.md#1-%C3%A9-proibido-usar-cheats)
 2. [É Proibido utilizar bugs ou glitches de duplicação](https://github.com/gecko1205/survival-server/blob/main/Regras.md#2-%C3%A9-proibido-utilizar-bugs-ou-glitches-de-duplica%C3%A7%C3%A3o)
 3. [É proibido construir *Lag machines*](https://github.com/gecko1205/survival-server/blob/main/Regras.md#3-%C3%A9-proibido-construir-lag-machines)
