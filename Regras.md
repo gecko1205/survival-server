@@ -25,13 +25,13 @@ Os seguintes tipos de mods são **permitidos** no servidor:
 Para manter a economia do servidor equilibrada e justa, não é permitido o uso de bugs ou glitches de duplicação de itens, entidades ou blocos.
 
 # 3. É proibido construir *Lag machines*
-Construir máquinas que possam causar lag no servidor ou travar o jogo de outros jogadores é proibido. Isso inclui qualquer construção que possa prejudicar o desempenho do servidor ou de outros jogadores.
+Construir máquinas que possam causar *lag* no servidor ou travar o jogo de outros jogadores é proibido. Isso inclui qualquer construção que possa prejudicar o desempenho do servidor ou de outros jogadores.
 
 # 4. É proibida a prática de *Griefing*
-Não é permitido a prática de griefing, que é a destruição de construções de outros jogadores sem permissão. Além disso, é proibida a colocação de blocos ou entidades em espaços usados ou preservados por outros jogadores.
+Não é permitido a prática de *griefing*, que é a destruição de construções de outros jogadores sem permissão. Além disso, é proibida a colocação de blocos ou entidades em espaços usados ou preservados por outros jogadores.
 
 # 5. É proibido roubar
-Qualquer tipo de fraude ou furto de outros jogadores é proibido. Isso inclui a criação de lojas falsas, a enganação de outros jogadores para obter recursos, pegar itens de contêiners de outros players ou a prática de latrocínio.
+Qualquer tipo de fraude ou furto de outros jogadores é proibido. Isso inclui a criação de lojas falsas, a enganação de outros jogadores para obter recursos, pegar itens de contêineres de outros players ou a prática de latrocínio.
 
 # 6. É proibido matar
 Não é permitido matar outros jogadores ou seus animais e mobs. Além disso, é proibido atacar outros jogadores sem motivo ou ameaçá-los de qualquer forma.
