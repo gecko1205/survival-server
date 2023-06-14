@@ -28,7 +28,7 @@ Para manter a economia do servidor equilibrada e justa, não é permitido o uso 
 Construir máquinas que possam causar lag no servidor ou travar o jogo de outros jogadores é proibido. Isso inclui qualquer construção que possa prejudicar o desempenho do servidor ou de outros jogadores.
 
 # 4. É proibida a prática de *Griefing*
-Não é permitido a prática de griefing, que é a destruição de construções de outros jogadores sem permissão. Além disso, é proibido a colocação de blocos ou entidades em espaços usados ou preservados por outros jogadores.
+Não é permitido a prática de griefing, que é a destruição de construções de outros jogadores sem permissão. Além disso, é proibida a colocação de blocos ou entidades em espaços usados ou preservados por outros jogadores.
 
 # 5. É proibido roubar
 Qualquer tipo de fraude ou furto de outros jogadores é proibido. Isso inclui a criação de lojas falsas, a enganação de outros jogadores para obter recursos, pegar itens de contêiners de outros players ou a prática de latrocínio.
